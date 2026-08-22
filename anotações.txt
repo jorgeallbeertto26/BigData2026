@@ -1,0 +1,8 @@
+https://github.com/jorgeallbeertto26/BigData2026.git
+
+git add . (adiciona todos os arquivos)
+git commit (executa a adição)
+git push
+git push -u origin main
+
+

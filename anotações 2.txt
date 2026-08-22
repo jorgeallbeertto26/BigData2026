@@ -1,0 +1,19 @@
+https://github.com/jorgeallbeertto26/BigData2026.git
+
+git add . (adiciona todos os arquivos)
+git commit (executa a adição)
+git push
+git push -u origin main
+
+
+ENTREGAS
+	SEMANA 1
+	- Receita (txt/doc)
+	- calculadora
+	- Atividadde aula 2
+	
+
+	SEMANA 2
+	- Versionar no guithub
+	- Atividadde aula 4
+	- Atividadde aula 5
