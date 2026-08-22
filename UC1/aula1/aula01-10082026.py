@@ -19,3 +19,4 @@ print (media)
 print(f"Primeira nota: {nota_1:.1f}")
 print(f"Segunda nota: {nota_2:.1f}")
 print(f"Média: {media:.1f}")
+ 
